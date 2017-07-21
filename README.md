@@ -6,19 +6,19 @@
 
 ## Contents
 
-1. [Courses](#courses)
-2. [Books](#books)
-3. [Programming](#programming)
-4. [Philosophy](#philosophy)
-5. [Free Content](#free-content)
-6. [Code](#code)
-7. [Videos](#videos)
-8. [Learning](#learning)
-9. [Organizations](#organizations)
-10. [Journals](#journals)
-11. [Competitions](#competitions)
-12. [Movies](#movies)
-13. [Misc](#misc)
+1. [课程](#课程)
+2. [书籍](#书籍)
+3. [编程](#编程)
+4. [哲学思想](#哲学思想)
+5. [免费的内容](#免费的内容)
+6. [代码](#代码)
+7. [视频](#视频)
+8. [学习](#学习)
+9. [机构](#机构)
+10. [期刊](#期刊)
+11. [比赛](#比赛)
+12. [电影](#电影)
+13. [其他](#其他)
 
 
 ## 课程
