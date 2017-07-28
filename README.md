@@ -23,15 +23,15 @@
 
 ## 课程
 
-* [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
-* [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - Learn the Fundamentals of AI. Course run by Peter Norvig
-* [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
-* [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
-* [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
-* [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - Algorithmic and practical tricks for artifical neural networks.
-* [Deep Learning](https://in.udacity.com/course/deep-learning--ud730/) - An Introductory course to the world of Deep Learning. 
-* [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
-* [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
+* [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI课程
+* [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - AI基础课程的学习
+* [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - 本课程将介绍潜在的智能计算机系统设计的基本思想和技术
+* [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - 本课程包含人工智能的基本方法，包括概率论、规划搜索、本地化、追踪控制，全部专注于机器人技术
+* [Machine Learning](https://class.coursera.org/ml-008) - 有监督学习和无监督学习的基本机器学习算法
+* [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - 人工神经网络的算法和实用技巧
+* [Deep Learning](https://in.udacity.com/course/deep-learning--ud730/) - 深入学习的入门课程
+* [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - 机器学习入门课程，包含： 线性回归和多项式回归，物流回归与线性判别分析； 交叉验证与bootstrap, 模型选择和正则表达方法（岭回归ridge和稀疏约束lasso)；非线性模型， splines函数和广义相加模型; 基于树的方法，随机森林和boosting算法； 支持向量机（SVM）
+* [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech的课程，讲的是符号主义人工智能
 
 
 ## 书籍
