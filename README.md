@@ -49,19 +49,19 @@
 
 ## 编程
 
-* [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
-* [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://dl.dropboxusercontent.com/u/6475135/Luger_0136070477_1.pdf)
-* [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
-* [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
+* [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - 最受欢迎的Prolog和人工智能导读，集中于使用Prolog的基本机制解决有趣的AI问题
+* [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [想要PDF,点击这里](https://dl.dropboxusercontent.com/u/6475135/Luger_0136070477_1.pdf)
+* [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/) - 机器学习使用的一些Python工具
+* [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence) - 基于Python的一些人工智能和机器学习实践
 
 
 ## 哲学思想
 
-* [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book.
-* [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
-* [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
-* [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - The 1980 paper by philospher John Searle that contains the famous 'Chinese Room' thought experiment. Probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and interesting reading for those interested in the intersection of AI and philosophy of mind.
-* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this wonderful journey into the the fundamental concepts of mathematics,symmetry and intelligence won a Pulitzer Price for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
+* [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - 关于“超智”的问题：当机器智慧超越人类智慧时会发生什么。是一本比较好的书
+* [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - 我们最后的发明，探讨不顾一切追求先进人工智能的危险：知道现在，人类的智慧还没有竞争对手。那么，我们能与哪些智慧高于我们人类的物种共存吗？它们是否也会允许人类和它们共存？
+* [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - Ray Kurzweil，Google的工程专家，探索大脑逆向工程来精确理解它的工作机制，然后将研究的知识最大化的应用到智能机器的创造上
+* [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - John Searle与1980年发表的包含著名的“华语房间”思想的论文，可能是对拥有思想和意识的强人工智能概念最著名的反驳。如果对人工智能和哲学思想的交叉感兴趣，这是一个有趣的文章
+* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 这本书涵盖的主题从数学、音乐、美术、计算机编程、递归、禅、智慧，以及更多
 
 
 ## 免费的内容
