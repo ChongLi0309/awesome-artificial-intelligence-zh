@@ -175,6 +175,8 @@
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 
+* [1500G人工智能资料下载地址](https://zhuanlan.zhihu.com/p/26504696)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
